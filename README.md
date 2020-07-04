@@ -1,1 +1,1 @@
-# Simon-Game-pattern-matching
+# Simon-Game (pattern-matching)
