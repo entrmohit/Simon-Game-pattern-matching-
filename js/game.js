@@ -66,6 +66,7 @@ function checkAnswer(currentLevel){
     }
 
   } else { //If doesn't matches at any point , then start over game
+    playsound("wrong");
     $("body").addClass("game-over");
     setTimeout(function() {
   	   $("body").removeClass("game-over");
