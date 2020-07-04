@@ -40,7 +40,7 @@ $(".btn").on("click",function(){
 });
 
 function playSound(name){
-  var audio=new Audio("sounds/" + name + ".mp3");
+  var audio=new Audio("https://entrmohit.github.io/Simon-Game-pattern-matching-/sounds/" + name + ".mp3");
   audio.play();
 }
 
