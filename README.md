@@ -1,1 +1,3 @@
-# Simon-Game (pattern-matching)
+# Simon-Game ->pattern-matching
+using javascript 
+
